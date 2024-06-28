@@ -1,0 +1,4 @@
+# Install the sdk and the hosting bundle to host an iis service.
+https://dotnet.microsoft.com/es-es/download/dotnet?cid=getdotnetcorecli
+# To build a new project in VSCode, in the terminal:
+dotnet new console --framework net7.0
